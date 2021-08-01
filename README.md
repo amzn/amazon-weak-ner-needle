@@ -163,7 +163,16 @@ The generated data will be saved in `${BERT_MODEL_PATH}/predict/weak_${PRED_RULE
 
 We can use `autoscript.py` to do experiments in an automatic way. E.g., do grid search. See more examples in `autoscript.py` and [flashtool](https://github.com/Gatech-Flash/FlashPythonToolbox/#auto-script-running).
 
+## Reference
 
+```
+@inproceedings{Jiang2021NamedER,
+  title={Named Entity Recognition with Small Strongly Labeled and Large Weakly Labeled Data},
+  author={Haoming Jiang and Danqing Zhang and Tianyue Cao and Bing Yin and T. Zhao},
+  booktitle={ACL/IJCNLP},
+  year={2021}
+}
+```
 
 ## Security
 
