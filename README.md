@@ -159,10 +159,6 @@ The generated data will be saved in `${BERT_MODEL_PATH}/predict/weak_${PRED_RULE
   - i) Set `BERT_CKP` appropriately;
   - ii) Run `./bio_script/finetune.sh`.
 
-### Automate Experiments
-
-We can use `autoscript.py` to do experiments in an automatic way. E.g., do grid search. See more examples in `autoscript.py` and [flashtool](https://github.com/Gatech-Flash/FlashPythonToolbox/#auto-script-running).
-
 ## Reference
 
 ```
