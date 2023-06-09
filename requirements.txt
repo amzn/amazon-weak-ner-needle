@@ -2,5 +2,5 @@ torch==1.13.1
 allennlp==1.1.0
 transformers==3.3.1
 flashtool==0.0.10
-ray==0.8.7
+ray==2.5.0
 pandas
